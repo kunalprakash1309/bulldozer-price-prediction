@@ -1,5 +1,6 @@
 /env
 /data
+./data
 
 # Jupyter checkpoints
 *.ipynb_checkpoints
